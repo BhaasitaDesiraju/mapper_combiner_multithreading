@@ -1,0 +1,6 @@
+(2222,sports         ,60)
+(1111,history        ,70)
+(1111,entertainment  ,40)
+(1111,cosmetics      ,20)
+(3333,photography    ,40)
+(3333,art            ,20)
